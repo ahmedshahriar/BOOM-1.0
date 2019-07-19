@@ -8,8 +8,8 @@ A simple First Person Shooter Multiplayer game.
 
 
 
-Prerequisites | Download | Screenshots
---- | --- | ---
+[**Prerequisites**](#prerequisites) | Download | Screenshots | Clip
+--- | --- | --- | ---
 
 
 ### Prerequisites
@@ -25,11 +25,15 @@ C# , Unity API
 * [probuilder](https://www.procore3d.com/probuilder/) - Level design
 
 ## Download 
-*  🔥  [**Download source code**](https://github.com/ahmedshahriar/BOOM-1.0/archive/master.zip)
+* :fireworks: [**Download the game**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip)
+*   🔥   [**Download source code**](https://github.com/ahmedshahriar/BOOM-1.0/archive/master.zip)
 * :star2:Clone the repository
 ```
 git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 ```
+## How To Play
+1. [**Download**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip) and extract the zip file
+2. open Boom.exe file
 
 ## Gameplay Screenshots :
 ### Server setup
@@ -49,4 +53,8 @@ git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/env_out.png "Environment Outside view")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/in_gameplay.png "Gameplay")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/effect_player_die.png "Player death")
+
+## 🔥🔥 **Gameplay clip** 🔥🔥
+
+![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Gameplay/gameplay.gif "Gameplay")
 
