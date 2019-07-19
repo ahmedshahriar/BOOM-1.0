@@ -8,7 +8,7 @@ A simple First Person Shooter Multiplayer game.
 
 
 
-[**Prerequisites**](#prerequisites) | [**Download**](#download) | [**Screenshots**](#gameplay-screenshots) | [**Clip**](#🔥🔥gameplay-clip🔥🔥)
+[**Prerequisites**](#prerequisites) | [**Download**](#download) | [**Screenshots**](#gameplay-screenshots) | [**Clip**](#gameplay-clip)
 --- | --- | --- | ---
 
 
