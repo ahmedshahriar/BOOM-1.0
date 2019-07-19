@@ -8,7 +8,7 @@ A simple First Person Shooter Multiplayer game.
 
 
 
-[**Prerequisites**](#prerequisites) | Download | Screenshots | Clip
+[**Prerequisites**](#prerequisites) | [**Download**](#download) | [**Screenshots**](#gameplay-screenshots) | [**Clip**](#🔥🔥gameplay-clip🔥🔥)
 --- | --- | --- | ---
 
 
@@ -35,7 +35,7 @@ git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 1. [**Download**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip) and extract the zip file
 2. open Boom.exe file
 
-## Gameplay Screenshots :
+## Gameplay Screenshots
 ### Server setup
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/create_server.png "Server")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/join_server.png " Join Server")
@@ -54,7 +54,7 @@ git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/in_gameplay.png "Gameplay")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/effect_player_die.png "Player death")
 
-## 🔥🔥 **Gameplay clip** 🔥🔥
+## 🔥🔥 Gameplay clip 🔥🔥
 
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Gameplay/gameplay.gif "Gameplay")
 
