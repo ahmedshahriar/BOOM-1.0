@@ -18,18 +18,18 @@ C# , Unity API
 * [c# , scripting API](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/index.html) - Core Scripting language
 * [probuilder](https://www.procore3d.com/probuilder/) - Level design
 
-### Gameplay Screenshots :
-#### Server setup
+## Gameplay Screenshots :
+### Server setup
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/create_server.png "Server")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/join_server.png " Join Server")
 
-#### Menu
+### Menu
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/menu.png "main Menu")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/guide.png "Guide menu")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/pause_menu.png "Pause menu")
 
 
-#### In game
+### In game
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/env1.png "Environment")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/env2.png "Environment")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/env3.png "Environment")
