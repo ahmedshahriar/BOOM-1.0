@@ -6,6 +6,12 @@ A simple First Person Shooter Multiplayer game.
 * **SAKIB,AHMED SHAHRIAR**  - [ahmedshahriar](https://github.com/ahmedshahriar)
 * **BARI,MD SHARIFUL**  - [shariful-bari11](https://github.com/shariful-bari11)
 
+
+
+Prerequisites | Download | Screenshots
+--- | --- | ---
+
+
 ### Prerequisites
 
 ```
@@ -17,6 +23,13 @@ C# , Unity API
 * [Unet](https://docs.unity3d.com/Manual/UNet.html) - Multiplayer and Networking
 * [c# , scripting API](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/index.html) - Core Scripting language
 * [probuilder](https://www.procore3d.com/probuilder/) - Level design
+
+## Download 
+*  🔥  [**Download source code**](https://github.com/ahmedshahriar/BOOM-1.0/archive/master.zip)
+* :star2:Clone the repository
+```
+git clone https://github.com/ahmedshahriar/BOOM-1.0.git
+```
 
 ## Gameplay Screenshots :
 ### Server setup
