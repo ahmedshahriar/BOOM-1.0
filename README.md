@@ -8,7 +8,7 @@ A simple First Person Shooter Multiplayer game.
 
 
 
-[**Prerequisites**](#prerequisites) | [**Download**](#download) | [**Screenshots**](#gameplay-screenshots) | [**Clip**](#gameplay-clip)
+:computer: [**Prerequisites**](#prerequisites) |:arrow_double_down: [**Download**](#download) |:camera: [**Screenshots**](#gameplay-screenshots) |:video_game: [**Clip**](#gameplay-clip)
 --- | --- | --- | ---
 
 
@@ -33,7 +33,7 @@ git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 ```
 ## How To Play
 1. [**Download**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip) and extract the zip file
-2. open Boom.exe file
+2. Open Boom.exe file
 
 ## Gameplay Screenshots
 ### Server setup
@@ -54,7 +54,7 @@ git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/in_gameplay.png "Gameplay")
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Screenshots/effect_player_die.png "Player death")
 
-## 🔥🔥 Gameplay clip 🔥🔥
+## Gameplay clip
 
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Gameplay/gameplay.gif "Gameplay")
 
