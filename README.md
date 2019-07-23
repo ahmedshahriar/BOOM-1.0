@@ -8,8 +8,8 @@ A simple First Person Shooter Multiplayer game.
 
 
 
-:computer: [**Prerequisites**](#prerequisites) |:arrow_double_down: [**Download**](#download) |:camera: [**Screenshots**](#gameplay-screenshots) |:video_game: [**Clip**](#gameplay-clip)
---- | --- | --- | ---
+:computer: [**Prerequisites**](#prerequisites) |:arrow_double_down: [**Download**](#download) |:camera: [**Screenshots**](#gameplay-screenshots) |:video_game: [**Clip**](#gameplay-clip) | :arrow_double_up: [**Update**](#update)
+--- | --- | --- | --- | ---
 
 
 ### Prerequisites
@@ -25,14 +25,14 @@ C# , Unity API
 * [probuilder](https://www.procore3d.com/probuilder/) - Level design
 
 ## Download 
-* :fireworks: [**Download the game**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip)
-*   🔥   [**Download source code**](https://github.com/ahmedshahriar/BOOM-1.0/archive/master.zip)
+* :fireworks: [**Download the game**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip "BOOM 1.0")
+*   🔥   [**Download source code**](https://github.com/ahmedshahriar/BOOM-1.0/archive/master.zip "BOOM 1.0 source code")
 * :star2:Clone the repository
 ```
 git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 ```
 ## How To Play
-1. [**Download**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip) and extract the zip file
+1. [**Download**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip "BOOM 1.0") and extract the zip file
 2. Open Boom.exe file
 
 ## Gameplay Screenshots
@@ -56,5 +56,10 @@ git clone https://github.com/ahmedshahriar/BOOM-1.0.git
 
 ## Gameplay clip
 
+:cinema:
+
 ![alt text](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/FPS_Controller/Gameplay/gameplay.gif "Gameplay")
 
+## Update 
+
+An updated version of this project , click [**here**](https://github.com/ahmedshahriar/BOOM-2.0 "BOOM 2.0")
