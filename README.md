@@ -24,6 +24,22 @@ C# , Unity API
 * [c# , scripting API](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/index.html) - Core Scripting language
 * [probuilder](https://www.procore3d.com/probuilder/) - Level design
 
+
+## Credits
+
+* ⚡[ WAR FX ](https://assetstore.unity.com/packages/vfx/particles/war-fx-5669) by [JMO](https://jeanmoreno.com/) - Muzzle Flash
+
+* 📦[Ammo Box](https://assetstore.unity.com/packages/3d/props/weapons/ammo-box-7701) by [Beatheart Creative Studio](https://assetstore.unity.com/publishers/1920) - Ammo Box
+
+* :gun:[Sci-fi Weapons](http://devassets.com/assets/sci-fi-weapons/) by [DEVASSETS](http://devassets.com/) - Rifle
+
+* :tv: [Network Lobby](https://assetstore.unity.com/packages/essentials/network-lobby-41836) by [Unity](https://assetstore.unity.com/publishers/1) - Network Lobby for Unet
+
+* 🌠 [M41 gun sound](https://soundcloud.com/tchan5158/m4a1-single-kibblesbob-8540445) by [kibblesbob](https://soundcloud.com/pro-sound-library-kibblesbob) -Rifle shooting sound
+
+
+
+
 ## Download 
 * :fireworks: [**Download the game**](https://github.com/ahmedshahriar/BOOM-1.0/blob/master/Game_EXPORT/BOOM-1.0_EXPORT.zip "BOOM 1.0")
 *   🔥   [**Download source code**](https://github.com/ahmedshahriar/BOOM-1.0/archive/master.zip "BOOM 1.0 source code")
